@@ -9,6 +9,7 @@
 <h2>Certifications:</h2>
 
 - [PL-300 Power BI](https://github.com/rushingosai/Certificates)- [Udemy certified]
+- [Data Analytics job simulation](https://github.com/rushingosai/Certificates)- [Deloitte certified]
 - [Python for data science and AI](https://github.com/rushingosai/Certificates)- [IBM certified]
 - [Introduction to Data Analytics for business](https://github.com/rushingosai/Certificates)- [Uni of Colorado certified]
 - [SQL query made easy](https://github.com/rushingosai/Certificates)- [LinkedIn certified]
