@@ -8,4 +8,8 @@
 
 <h2>Certifications:</h2>
 
-- [PL-300 Power BI](https://github.com/rushingosai/PL-300-Certificate)
+- [PL-300 Power BI- Udemy certified](https://github.com/rushingosai/Certificates)
+- [SQL query made easy- LinkedIn certified](https://github.com/rushingosai/Certificates)
+- [Quick start guide to SQL-LinkedIn certified](https://github.com/rushingosai/Certificates)
+- [Python for data science and AI- IBM certified](https://github.com/rushingosai/Certificates)
+- [Introduction to Data Analytics for business- Uni of Colorado certified](https://github.com/rushingosai/Certificates)
