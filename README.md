@@ -6,8 +6,8 @@
 - [Mobile Sales Dashboard](https://github.com/rushingosai/Mobile-Sales-Dasboard)
 - [HR Dashboard](https://github.com/rushingosai/HR-Dashboard)
 - [eCommerce Sales Dashboard](https://github.com/rushingosai/eCommerce-Sales-Dashboard)
-- [Human Activity Recognition Using Accelerometer Data] (
-
+- [Human Activity Recognition Using Accelerometer Data] (https://github.com/rushingosai/Human-Activity-Recognition-using-accelerometer-data)
+  
 <h2>Skills:</h2>
 
 - <b>Data analysis and visualisation</b>: Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting), Python, requirement gathering, data quality & governance, Knowledge of data metrics, Microsoft Azure fundamentals, statistical analysis, data quality and governance, machine learning models
