@@ -1,10 +1,12 @@
 <h1>Hi, I'm Rushi Gosai!
 
-<h2>Power BI Projects:</h2>
+
+<h2>Projects:</h2>
 
 - [Mobile Sales Dashboard](https://github.com/rushingosai/Mobile-Sales-Dasboard)
 - [HR Dashboard](https://github.com/rushingosai/HR-Dashboard)
 - [eCommerce Sales Dashboard](https://github.com/rushingosai/eCommerce-Sales-Dashboard)
+- [Human Activity Recognition Using Accelerometer Data] (
 
 <h2>Skills:</h2>
 
