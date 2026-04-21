@@ -11,7 +11,7 @@
   
 <h2>Skills:</h2>
 
-- <b>Data analysis and visualisation</b>: Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting), Python, requirement gathering, data quality & governance, Knowledge of data metrics, Microsoft Azure fundamentals, statistical analysis, data quality and governance, machine learning models
+- <b>Data analysis and visualisation</b>: Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting), Python, requirement gathering, data quality & governance, Knowledge of data metrics, Microsoft Azure fundamentals, statistical analysis, data quality and governance, machine learning models(logistic regression, linear regression, random forest, naive ayes, k-means clustering)
 - <b>Business Intelligence tool</b>: Power BI
 - <b>Database management</b>: SQL databases- join operations, DML statements, window functions, ETL processes
 - <b>Microsoft 365 tools</b>: Excel, PowerPoint, Word, Teams, OneNote, and SharePoint
