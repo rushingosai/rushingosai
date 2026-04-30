@@ -13,11 +13,11 @@
   
 <h2>Skills:</h2>
 
-- <b>Data analysis and visualisation</b>: Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting), Python, requirement gathering, data quality & governance, Knowledge of data metrics, Microsoft Azure fundamentals, statistical analysis, data quality and governance, machine learning (logistic regression, linear regression, random forest, naive bayes, k-means clustering, PCA, feature extraction)
+- <b>Data analysis and visualisation</b>: Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting), Python (pandas, numpy, matplotlib, scikit-learn), requirement gathering, data quality & governance, Knowledge of data metrics, Microsoft Azure fundamentals, statistical analysis, data quality and governance, machine learning (logistic regression, linear regression, random forest, naive bayes, k-means clustering, PCA, feature extraction), LLM, LangChain
 - <b>Business Intelligence tool</b>: Power BI
-- <b>Database management</b>: SQL databases- join operations, DML statements, window functions, ETL processes
+- <b>Database management</b>: SQL databases- windows functions, joins, subqueries, CTEs, ETL processes
 - <b>Microsoft 365 tools</b>: Excel, PowerPoint, Word, Teams, OneNote, and SharePoint
-- <b>Soft skills</b>: Work in multidisciplinary team, problem-solving, attention to detail, client communication, team leadership, positive attitude, market research, collaborative
+- <b>Soft skills</b>: Work in multidisciplinary teams, problem-solving, attention to detail, client communication, team leadership, positive attitude, market research, collaborative
   
   
 <h2>Certifications:</h2>
