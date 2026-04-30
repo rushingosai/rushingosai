@@ -3,7 +3,7 @@
 
 <h2>Projects:</h2>
 
-- [AI-Powered Clinical Data Assistant for Parkinson’s Disease Analytics]()
+- [AI-Powered Clinical Data Assistant for Parkinson’s Disease Analytics](https://github.com/rushingosai/AI-Powered-Clinical-Data-Assistant-for-Parkinson-s-Disease-Analytics)
 - [Human Activity Recognition Using Accelerometer Data](https://github.com/rushingosai/Human-Activity-Recognition-using-accelerometer-data)
 - [Mobile Sales Dashboard](https://github.com/rushingosai/Mobile-Sales-Dasboard)
 - [HR Dashboard](https://github.com/rushingosai/HR-Dashboard)
